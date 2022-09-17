@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>localhost/about/</loc>
+    <lastmod>2022-09-05T12:08:39+12:00</lastmod>
+  </url><url>
+    <loc>localhost/artists/vexxedinmyhead/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/artists/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/contact/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/posts/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/artists/starsandtheunderground/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/posts/welcome/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>localhost/blog/</loc>
+  </url><url>
+    <loc>localhost/series/</loc>
+  </url><url>
+    <loc>localhost/tags/</loc>
+  </url>
+</urlset>

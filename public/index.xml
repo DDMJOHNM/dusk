@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dusk Records Aotearoa</title>
+    <link>localhost/</link>
+    <description>Recent content on Dusk Records Aotearoa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 04 Sep 2022 11:53:08 +1200</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>localhost/about/</link>
+      <pubDate>Mon, 05 Sep 2022 12:08:39 +1200</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>Dusk Records Aotearoa is a New Zealand (Aotearoa) based artist collective specialising in Post-Punk, Darkwave and Dark Electronic Music.</description>
+    </item>
+    
+    <item>
+      <title>[vexxed] in my head</title>
+      <link>localhost/artists/vexxedinmyhead/</link>
+      <pubDate>Sun, 04 Sep 2022 11:53:08 +1200</pubDate>
+      
+      <guid>localhost/artists/vexxedinmyhead/</guid>
+      <description>[vexxed] in my head are Carlos Antonio of ODD and Humaniser and John Mason of Stars and the Underground and Humaniser.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>localhost/contact/</link>
+      <pubDate>Sun, 04 Sep 2022 11:53:08 +1200</pubDate>
+      
+      <guid>localhost/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stars and the Underground</title>
+      <link>localhost/artists/starsandtheunderground/</link>
+      <pubDate>Sun, 04 Sep 2022 11:53:08 +1200</pubDate>
+      
+      <guid>localhost/artists/starsandtheunderground/</guid>
+      <description>Stars and the Underground are a four piece band from Auckland, New Zealand.
+They play a unique brand of Post Punk incorporating Shoegaze textures and Dark Electronic and Cold Wave vibes.
+Our journey thus far has been about building a sound of which now we feel we are beginning to understand, as at 2022 after being dreadfully restricted by Covid19, we are now ready to share our new material which represents the band as it now exists the camaraderie and shared musical connection we have made during difficult times.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>localhost/posts/welcome/</link>
+      <pubDate>Sun, 04 Sep 2022 11:53:08 +1200</pubDate>
+      
+      <guid>localhost/posts/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
