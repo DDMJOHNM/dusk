@@ -13,7 +13,7 @@ Steeped in sybolism the work has its heart rooted in experimentation.
 
 The music is designed for the dark dancefloor!!
 
-John has been working with Carlos (ODD, Humaniser) who has be remixing the tracks.
+John has been working with Carlos (ODD, Humaniser) who has been remixing the tracks.
 
 
 
