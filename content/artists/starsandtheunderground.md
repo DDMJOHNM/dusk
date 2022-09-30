@@ -1,6 +1,6 @@
 ---
 title: "Stars and the Underground"
-date: 2022-09-04T11:53:08+12:00
+date: 2022-09-03T11:53:08+12:00
 draft: false
 ---
 
@@ -33,6 +33,8 @@ Cat Veen - Keyboards/Vocals
 Ario Kimber Manufui - Bass Guitar
 
 Matt Herring - Drums
+
+Past Members - Sean Okane Connelly - Keyboards (Evolution Circle)
 
 ---
 
@@ -124,4 +126,4 @@ https://starsandtheunderground.bandcamp.com
 
 ---
 
-{{< image src="/satu.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px; margin: 20px auto 20px auto" >}}
+{{< image src="/satu.jpeg" alt="Hello Friend" position="left" style="border-radius: 8px;" >}}
