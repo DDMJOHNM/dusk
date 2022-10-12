@@ -23,12 +23,6 @@ The last show for the original line up was the last Sweetwaters Festival, where 
 
 
 
-
-
-
-
-
-
 ---
 **Members**:
 
@@ -74,7 +68,9 @@ Killer Ray, Pod, Auckland
 
 **1996** 
 
+**1997** 
 
+**1998** 
 
 
 

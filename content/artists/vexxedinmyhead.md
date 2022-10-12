@@ -5,6 +5,7 @@ date: 2022-09-04T11:53:08+12:00
 draft: false
 ---
 
+{{< image src="/vexxed.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 **VEXXED in my head** is the solo project John Mason of Stars and the Underground. 
 
