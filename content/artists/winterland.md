@@ -11,6 +11,10 @@ draft: false
 
 **Winterland** (now defunct).
 
+**Labels & Distribution**
+Flying Out (NZ), Heartland Records(Australia), Cyberdelia Records(Greece), Darkcell Digital(UK and Europe)
+
+
 Winterland originally consisted of Mike Caulfield, Glynn Beaumont and Barry Morton, laterly joined by John Mason and Ross Harris who came
 togther to form the original band. A rehersal room on Quay Street and almost monthly shows marked our first years in existence.
 
@@ -29,7 +33,7 @@ John Mason (Vocals)
 
 Mike Caulfield (Keyboards)
 
-Ross Harris/Andrew Buckton (Guitars)
+Ross Harris/Andrew Buckton/Michel Rowland (Guitars)
 
 Barry Morton/Robyn Sutherland (Bass)
 
