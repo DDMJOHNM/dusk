@@ -22,7 +22,6 @@ Mark Wallbank the head of the Club Bizarre Label took a liking to the band and i
 The last show for the original line up was the last Sweetwaters Festival, where we played to 10,000 people on the first night of the festival alongside Jordan Reyne.
 
 
-
 ---
 **Members**:
 
@@ -34,7 +33,7 @@ Ross Harris/Andrew Buckton (Guitars)
 
 Barry Morton/Robyn Sutherland (Bass)
 
-Glyn Beaumont/Mark Queenin (Drums) 
+Glyn Beaumont/Mark Queenin/John McDermott(Drums) 
 
 ---
 **Releases**:
@@ -68,11 +67,45 @@ Killer Ray, Pod, Auckland
 
 **1996** 
 
+95bfm Summer Series, Albert Park, Auckland
+
+Theo Ray, Squid, Auckland
+
+Stellar, Squid, Auckland
+
+Trucker, Wailing Bongo, Hamilton
+
 **1997** 
+
+Breathe, Squid, Auckland
+
+Splitter, Squid, Auckland
+
+Second Child, Wailing Bongo, Hamilton  
+
+Cabbage bomber Squid, Auckland
+
+Chicane, Sub Station, Auckland
 
 **1998** 
 
+Darkness Gathering, Bar Bodega, Wellington
 
+Headline Show, Luna, Auckland 
+
+CD Release Party with Chris Knox, Krd Ballroom, Auckland 
+
+95bfm Live To Air with Havoc
+
+Tadpole, Squid, Auckland
+
+Gothic Ball, Powerstation, Auckland
+
+Trinket, JBC, Hamilton
+
+**1999**
+
+Sweetwaters Festival, Puhunui Reserve, Auckland 
 
 ---
 **Press**:
