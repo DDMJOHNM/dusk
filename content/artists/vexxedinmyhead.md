@@ -17,6 +17,23 @@ The music is designed for the ethereal dark dancefloor!!
 
 John has also been working with Carlos (ODD, Humaniser) who has been remixing the tracks.
 
+2023 will see the release of our new EP "Apocalytic Cowboy"  
+
+{{< image src="/vexxedep.png" alt="Hello Friend" position="left" style="border-radius: 0px; width:400px;height:400px;" >}}
+
+The tracklisting:
+
+ 
+Architypes,
+
+Xanthosis,
+
+Send Me a Lifeline, 
+
+Lonely Black Hearts Dismay,
+
+Planispshere.
+
 ---
 
 
