@@ -11,8 +11,9 @@ draft: false
 
 They play a unique  brand of Post Punk incorporating Shoegaze textures and Dark Electronic and Cold Wave vibes.
 
-Our journey thus far has been about building a sound of which now we feel we are beginning to understand, as
-at 2022 after being dreadfully restricted by Covid19, we are now ready to share our new material which represents the band as it now exists the camaraderie and shared musical connection we have made during difficult times.
+Our journey thus far has been about building a sound of which now we feel we are beginning to understand. 
+
+As of 2022 after being dreadfully restricted by Covid19, we are now ready to share our new material which represents the band as it now exists the camaraderie and shared musical connection we have made during difficult times.
 
 Recording an EP is our next port of call, then a return to the touring momentum we started to build in 2019.
 
