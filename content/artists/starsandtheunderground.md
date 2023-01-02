@@ -124,6 +124,8 @@ https://www.instagram.com/starsandtheunderground/
 
 https://starsandtheunderground.bandcamp.com
 
+https://www.youtube.com/@starsandtheunderground8183
+
 ---
 
 {{< image src="/satu.jpeg" alt="Hello Friend" position="left" style="border-radius: 8px;" >}}
