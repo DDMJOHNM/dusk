@@ -15,7 +15,11 @@ Based in tamaki makaurau, major motifs lyrically include alchemy representing ch
 
 The music can be described as a Dark Synthwave with a good smattering of Bass IV. 
 
+---
+
 {{< image src="/vexxedep.png" alt="Hello Friend" position="left" style="border-radius: 0px; width:400px;height:400px;" >}}
+
+---
 
 The tracklisting:
 
