@@ -40,5 +40,7 @@ Planispshere.
 
 https://www.facebook.com/vexxedimh
 
+---
+
 {{< image src="/vimh.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px; width:200px;height:200px; margin:20px;" >}}
 
