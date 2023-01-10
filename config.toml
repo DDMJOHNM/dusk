@@ -48,6 +48,7 @@ paginate     = 10
   # And you can even create generic menu
   [[menu.main]]
   
+  googleAnalytics = 'G-B47JLNF8ZN'
     
  
     
