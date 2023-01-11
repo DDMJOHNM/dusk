@@ -25,7 +25,7 @@ We like to think we are doing our little bit to promote not just ourselves but o
 
 **EPK**
 
-https://www.duskaotearoa.co.nz/artists/starsandtheunderground/stars_epk.pdf
+https://www.duskaotearoa.co.nz/stars_epk.pdf
 
 ___
 
