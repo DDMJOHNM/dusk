@@ -23,6 +23,10 @@ Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 alo
 
 We like to think we are doing our little bit to promote not just ourselves but other Kiwi artists.
 
+**EPK**
+
+https://www.duskaotearoa.co.nz/artists/starsandtheunderground/stars_epk.pdf
+
 ___
 
 **Members**:
