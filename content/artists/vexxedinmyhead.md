@@ -7,18 +7,15 @@ draft: false
 
 {{< image src="/vexxed.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
-**VEXXED in my head** is the solo project John Mason of Stars and the Underground. 
+**VEXXED in my head** is the solo project John Mason of Stars and the Underground and Winterland. 
 
 Based in tamaki makaurau, major motifs lyrically include alchemy representing change and the deconstruction of the self and emerging rejuvenated and new.
 
-2023 will see the release of our new EP "Apocalyptic Cowboy"  
+2023 will see the release of our new EP "Boomer Tech"  
 
 The music can be described as a Dark Synthwave with a good smattering of Bass IV. 
 
 ---
-
-{{< image src="/vexxedep.png" alt="Hello Friend" position="left" style="border-radius: 0px; width:400px;height:400px;" >}}
-
 
 The tracklisting:
 

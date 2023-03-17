@@ -6,17 +6,49 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 04 Sep 2022 11:53:08 +1200</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 11:53:08 +1200</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Welcome</title>
-            <link>/posts/welcome/</link>
-            <pubDate>Sun, 04 Sep 2022 11:53:08 +1200</pubDate>
+            <title>SATU usher in a new era</title>
+            <link>/posts/stars_rehersals/</link>
+            <pubDate>Mon, 13 Mar 2023 11:53:08 +1200</pubDate>
             
-            <guid>/posts/welcome/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>/posts/stars_rehersals/</guid>
+            <description>(Photo Cred: Mark Wallbank)
+Stars and the Underground will once again meet in the rehersal room to start working on their set and an as yet undetermined song to be released as a single.
+The band is in high spirits and have been wildly investing in new equipment with a view to refining the bands sound we look forward to seeing what emerges.
+There will be some live shows announced once we are happy with where things are at and we hope to hook up with a few acts weve been talking to since last year about playing together.</description>
+            <content type="html"><![CDATA[
+    <img src="/stars_august_2022.jpeg"  alt="Me olde mate"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>(Photo Cred: Mark Wallbank)</p>
+<p>Stars and the Underground will once again meet in the rehersal room to start working on their set and an as yet undetermined song to be released as a single.</p>
+<p>The band is in high spirits and have been wildly investing in new equipment with a view to refining
+the bands sound we look forward to seeing what emerges.</p>
+<p>There will be some live shows announced once we are happy with where things are at and we hope to hook up with a few acts weve been talking to since last year about playing together.</p>
+<p>John, Cat, Ari, Matt.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>New Single For VIMH</title>
+            <link>/posts/first_release/</link>
+            <pubDate>Sat, 11 Mar 2023 11:53:08 +1200</pubDate>
+            
+            <guid>/posts/first_release/</guid>
+            <description>(Photo Cred: Mark Wallbank)
+Vexxed in my Head is proud to announce the first single off the new Ep &amp;ldquo;Boomer Tech&amp;rdquo;, &amp;ldquo;Lonely Black Hearts Dismay&amp;rdquo; will be released soon. The track was mixed and mastered by Ant Bannister (Sounds Like Winter, Sequential Zero and Mantravision Productions) in Sydney.
+The accompanying video was shot by Mark Wallbank of Paranormal New Zealand and Hieronymous Bosch.</description>
+            <content type="html"><![CDATA[
+    <img src="/vexxed_single1.jpg"  alt="Me olde mate"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>(Photo Cred: Mark Wallbank)</p>
+<p>Vexxed in my Head is proud to announce the first single off the new Ep &ldquo;Boomer Tech&rdquo;, &ldquo;Lonely Black Hearts Dismay&rdquo; will be released soon.  The track was mixed and mastered by Ant Bannister (Sounds Like Winter, Sequential Zero and Mantravision Productions) in Sydney.</p>
+<p>The accompanying video was shot by Mark Wallbank of Paranormal New Zealand and Hieronymous Bosch.</p>
+]]></content>
         </item>
         
     </channel>

@@ -47,6 +47,11 @@ paginate     = 10
 
   # And you can even create generic menu
   [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "Posts"
+    url = "/posts/"
   
   googleAnalytics = 'G-B47JLNF8ZN'
     
