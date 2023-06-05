@@ -4,24 +4,17 @@ date: 2022-09-03T11:53:08+12:00
 draft: false
 ---
 
-{{< image src="/stars.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/vexxed.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
+**Stars and the Underground** Is the solo project of John Mason (Winterland) based in Auckland, New Zealand. 
 
-**Stars and the Underground** are a four piece band from Auckland, New Zealand. 
+John plays a unique brand of Post Punk incorporating Shoegaze textures and Dark Synthwave vibes.
 
-They play a unique  brand of Post Punk incorporating Shoegaze textures and Dark Electronic and Cold Wave vibes.
-
-Our journey thus far has been about building a sound of which now we feel we are beginning to understand. 
-
-As of 2022 after being dreadfully restricted by Covid19, we are now ready to share our new material which represents the band as it now exists the camaraderie and shared musical connection we have made during difficult times.
-
-Recording an EP is our next port of call, then a return to the touring momentum we started to build in 2019.
-
-Our first single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
+Our single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
 
 Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
 
-We like to think we are doing our little bit to promote not just ourselves but other Kiwi artists.
+This carried on the great work we started with the release of the Evolution Circle Ep in 2019 and the tour of Australia, also sharing the stage in Auckland with Drab Majesty (US) and Sounds Like Winter (Aus). 
 
 **EPK**
 
@@ -31,15 +24,17 @@ ___
 
 **Members**:
 
-John Mason - Vocals, Guitars
+John Mason - Vocals, Guitars and Songwriting
 
-Cat Veen - Keyboards/Vocals
+Past Members 
 
-Ario Kimber Manufui - Bass Guitar
+Sean Okane Connelly - Keyboards (Evolution Circle)
 
-Matt Herring - Drums
+Cat Veen - Keyboards/Vocals (Nosferatu Upon Tyne)
 
-Past Members - Sean Okane Connelly - Keyboards (Evolution Circle)
+Ario Kimber Manufui - Bass Guitar (Nosferatu Upon Tyne)
+
+Matt Herring - Drums 
 
 ---
 

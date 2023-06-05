@@ -8,11 +8,8 @@ draft: false
 
 (Photo Cred: Mark Wallbank)
 
-Stars and the Underground will once again meet in the rehersal room to start working on their set and an as yet undetermined song to be released as a single.
- 
-The band is in high spirits and have been wildly investing in new equipment with a view to refining 
-the bands sound we look forward to seeing what emerges.
+In 2023 there will be new material coming through with recording underway and live dates before the end of the year with a new line up.
 
-There will be some live shows announced once we are happy with where things are at and we hope to hook up with a few acts weve been talking to since last year about playing together.
+The has been a big shift in ethos and we have cut down the line up with touring in mind also the music invariably will be darker after having explored the more shoegaze side with Evolution Circle EP in 2019 and Nosferatu Upon Tyne single in 2020.
 
-John, Cat, Ari, Matt.
+More soon thanks John.
