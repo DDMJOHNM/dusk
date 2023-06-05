@@ -10,6 +10,6 @@ draft: false
 
 In 2023 there will be new material coming through with recording underway and live dates before the end of the year with a new line up.
 
-The has been a big shift in ethos and we have cut down the line up with touring in mind also the music invariably will be darker after having explored the more shoegaze side with Evolution Circle EP in 2019 and Nosferatu Upon Tyne single in 2020.
+There has been a big shift in ethos and we have cut down the line up with touring in mind also the music invariably will be darker after having explored the more shoegaze side with Evolution Circle EP in 2019 and Nosferatu Upon Tyne single in 2020.
 
 More soon thanks John.

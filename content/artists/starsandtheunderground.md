@@ -14,7 +14,7 @@ Our single “Nosferatu Upon Tyne” was released in August 2020 and received ai
 
 Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
 
-This carried on the great work we started with the release of the Evolution Circle Ep in 2019 and the tour of Australia, also sharing the stage in Auckland with Drab Majesty (US) and Sounds Like Winter (Aus). 
+This carried on the great work we started with the release of the Evolution Circle Ep in 2019 and the tour of Australia, also sharing the stage in Auckland with Drab Majesty (US) and Sounds Like Winter (Aus) and Ikon (Aus). 
 
 **EPK**
 
