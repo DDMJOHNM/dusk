@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/releases/lonely_black_hearts_dismay/</loc>
+    <lastmod>2023-06-03T11:53:08+12:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2023-03-13T11:53:08+12:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-03-13T11:53:08+12:00</lastmod>
-  </url><url>
-    <loc>/posts/stars_rehersals/</loc>
-    <lastmod>2023-03-13T11:53:08+12:00</lastmod>
+    <lastmod>2023-06-03T11:53:08+12:00</lastmod>
   </url><url>
     <loc>/about/</loc>
     <lastmod>2022-09-05T12:08:39+12:00</lastmod>
   </url><url>
-    <loc>/artists/</loc>
+    <loc>/releases/</loc>
     <lastmod>2022-09-04T11:53:08+12:00</lastmod>
   </url><url>
-    <loc>/artists/starsandtheunderground/</loc>
-    <lastmod>2022-09-03T11:53:08+12:00</lastmod>
+    <loc>/shows/</loc>
+    <lastmod>2022-09-04T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>/releases/nosferatu_upon_tyne/</loc>
+    <lastmod>2020-08-12T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>/releases/evolution_circle/</loc>
+    <lastmod>2019-06-01T11:53:08+12:00</lastmod>
+  </url><url>
+    <loc>/releases/bring_it_down/</loc>
+    <lastmod>2017-09-03T11:53:08+12:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
   </url><url>
