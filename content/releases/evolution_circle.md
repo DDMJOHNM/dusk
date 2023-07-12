@@ -38,11 +38,6 @@ Quiet Remix by Carlos Antonio (Ashes The Condition)
 
 {{< image src="/live2.jpg" alt="Hello Friend" position="left" style="border-radius: 8px;" >}}
 
-**Streamers** 
-{{< youtube zfQ9OYZJIM0 >}}  
-
-**Twilight By Design** 
-{{< youtube Alze77WahpA >}}  
 
 
 

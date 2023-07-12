@@ -13,7 +13,7 @@ Is the solo project of John Mason (Winterland) based in Auckland, New Zealand.
 
 John plays a unique brand of Post Punk incorporating Shoegaze textures and Dark Synthwave vibes.
 
-Joined by a talented group of friends on releases or solo each release has a story of its own and documents another step in the journey of stars.
+Joined by a talented group of friends on releases or solo each release has a story of its own and documents another step in the journey of Stars.
 
 New material is due in 2023 and this will start with the release of the single Lonely Black Hearts Dismay and working towards some live dates with John Mcdermott on drums joining me.  
 

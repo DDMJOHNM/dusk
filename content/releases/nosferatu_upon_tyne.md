@@ -34,6 +34,4 @@ Nosferatu Upon Tyne Remix by Elenor Rayner (Robots In Love)
 {{< image src="/live3.jpeg" alt="Hello Friend" position="left" style="border-radius: 8px;" >}}
 
 
-**Concierto Solidario - Radio Subte Lima Sur(Peru) Live Stream**
-{{< youtube XewjDrjTW7o >}}  
 
