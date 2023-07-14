@@ -5,15 +5,6 @@ date: 2022-09-04T11:53:08+12:00
 draft: false
 ---
 
-These great videos are the work of Mark Wallbank (Hieronymous Bosch/Paranormal New Zealand/Club Bizzare/Bizarre Beats).
-
-Without his support and creativity and inspiration our releases would be diminished.
-
-Thank you Mark. 
-
-{{< image src="/meoldemate.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
-
-
 **Concierto Solidario - Radio Subte Lima Sur(Peru) Live Stream**
 
 {{< youtube XewjDrjTW7o >}}  
@@ -38,3 +29,11 @@ on to a back drop behind while Sean and I performed.
 This was the second video we did and was for the single off the Evolution Circle (2019) shot in the North Head Tunnels on the North Shore 
 of Auckland very appropriate as it was an old stomping ground mutually for Mark and I as children.
 Well we still havent grown up have we...  
+
+These great videos are the work of Mark Wallbank (Hieronymous Bosch/Paranormal New Zealand/Club Bizzare/Bizarre Beats).
+
+Without his support and creativity and inspiration our releases would be diminished.
+
+Thank you Mark. 
+
+{{< image src="/meoldemate.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
