@@ -30,6 +30,13 @@ This was the second video we did and was for the single off the Evolution Circle
 of Auckland very appropriate as it was an old stomping ground mutually for Mark and I as children.
 Well we still havent grown up have we...  
 
+**Bring It Down** 
+{{< youtube YhK5pxrdMDQ >}}
+
+Bring it Down was the first unofficial release for Stars as it was due to the fact I needed something to promote the project with as
+I had a few dates in the works and so it was the backdrop for my first ever solo show. Mark and I shot this at a secret location 
+and he brought an amzing box of tricks to make the most of our time in this spooky venue. 
+
 These great videos are the work of Mark Wallbank (Hieronymous Bosch/Paranormal New Zealand/Club Bizzare/Bizarre Beats).
 
 Without his support and creativity and inspiration our releases would be diminished.
