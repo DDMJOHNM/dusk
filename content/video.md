@@ -6,8 +6,8 @@ draft: false
 ---
 
 **Concierto Solidario - Radio Subte Lima Sur(Peru) Live Stream**
-
 {{< youtube XewjDrjTW7o >}}  
+(Mark Wallbank)
  
 This video was shot for Radio Subte Lima Sur and was played on a big screen at the benefit concert so that 
 the disadvantaged children of Villa María del Triunfo could enjoy some Christmas cheer. 
@@ -19,12 +19,13 @@ Wonderful music people, even though we spoke different languages they always und
 
 **Streamers** 
 {{< youtube zfQ9OYZJIM0 >}}  
-
+(Mark Wallbank)
 Taken from a live performance from the Whammy Back Room circa 2019 (Evolution Circle Release and Tour) Mark projected visuals 
 on to a back drop behind while Sean and I performed.
 
 **Twilight By Design** 
 {{< youtube Alze77WahpA >}}  
+(Mark Wallbank)
 
 This was the second video we did and was for the single off the Evolution Circle (2019) shot in the North Head Tunnels on the North Shore 
 of Auckland very appropriate as it was an old stomping ground mutually for Mark and I as children.
@@ -32,6 +33,7 @@ Well we still havent grown up have we...
 
 **Bring It Down** 
 {{< youtube YhK5pxrdMDQ >}}
+(Mark Wallbank)
 
 Bring it Down was the first unofficial release for Stars as it was due to the fact I needed something to promote the project with as
 I had a few dates in the works and so it was the backdrop for my first ever solo show. Mark and I shot this at a secret location 
