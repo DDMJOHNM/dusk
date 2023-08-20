@@ -9,9 +9,10 @@ paginate     = 10
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  backgroundImage = "/front5.jpg" 
 
   # Subtitle for home
-  homeSubtitle = "A New Zealand Based Post Punk and Dark Synthwave Project"
+  homeSubtitle = ""
  
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -32,7 +33,7 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Stars and the Underground"
-    subtitle = "A New Zealand Based Post Punk and Dark Synthwave Project"
+    subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
