@@ -1,14 +1,40 @@
 ---
-title: "New Single For VIMH"
-date: 2023-03-11T11:53:08+12:00
-draft: true
+title: "Transmissions: Blog Update 1"
+date: 2023-11-19T11:53:08+12:00
+draft: false
 ---
 
-{{< image src="/vexxed_single1.jpg" alt="Me olde mate" position="center" style="border-radius: 8px;" >}}
+{{< image src="/single.png" alt="Hello Friend" position="center" >}}
 
-(Photo Cred: Mark Wallbank)
+Well here we are, in February this year (2023) I indicated that there would be new material coming. We were planning to release an Ep 
+but these plans were shelved as Cat left the band then I decided not to continue on in the form that we were in to maintain the integrity 
+of what I was trying to do.
 
-Vexxed in my Head is proud to announce the first single off the new Ep "Boomer Tech", "Lonely Black Hearts Dismay" will be released soon.  The track was mixed and mastered by Ant Bannister (Sounds Like Winter, Sequential Zero and Mantravision Productions) in Sydney.
+Also due to alot of personal illness, family commitments I decided it would best best to take a break from live work so I could focus on recording.
 
-The accompanying video was shot by Mark Wallbank of Paranormal New Zealand and Hieronymous Bosch.
+I'm happy to say that this has really paid off, John Mcdermott a long time friend and drummer agreed to jump on board and help out with the project and 
+recording.
+
+This has gone so well infact we have enough material for a new album. 
+
+"Guardians of the Night"
+
+The above image is taken from the cover of the first single of the album "Lonely Black Hearts Dismay", which also features a remix by Elenor Rayner (Robots In Love).
+
+We are planning live performances to support the release in 2024. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
