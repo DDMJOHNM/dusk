@@ -6,11 +6,12 @@ draft: false
 
 {{< image src="/single.png" alt="Hello Friend" position="center" >}}
 
-Well here we are, in February this year (2023) I indicated that there would be new material coming. We were planning to release an Ep 
-but these plans were shelved as Cat left the band then I decided not to continue on in the form that we were in to maintain the integrity 
+Well here we are, in February this year (2023) I indicated that there would be new material coming. 
+
+We were planning to release an Ep but these plans were shelved as Cat left the band then I decided not to continue on in the form that we were in to maintain the integrity 
 of what I was trying to do.
 
-Also due to alot of personal illness, family commitments I decided it would best best to take a break from live work so I could focus on recording.
+Also due to alot of personal illness, family commitments I decided it would best to take a break from live work so I could focus on recording.
 
 I'm happy to say that this has really paid off, John Mcdermott a long time friend and drummer agreed to jump on board and help out with the project and 
 recording.
