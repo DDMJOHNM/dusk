@@ -15,7 +15,7 @@ John plays a unique brand of Post Punk incorporating Shoegaze textures and Dark 
 
 Joined by a talented group of friends on releases or solo each release has a story of its own and documents another step in the journey of Stars.
 
-New material is due in 2023 and this will start with the release of the single Lonely Black Hearts Dismay and working towards some live dates with John Mcdermott on drums joining me.  
+New material is due in 2024 and this will start with the release of the single Lonely Black Hearts Dismay and working towards some live dates with John Mcdermott on drums joining me.  
 
 The single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
 
