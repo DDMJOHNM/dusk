@@ -9,7 +9,7 @@ paginate     = 10
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  backgroundImage = "./front4.jpg" 
+  backgroundImage = "./newfront.png" 
   
   # Subtitle for home
   homeSubtitle = ""
@@ -45,15 +45,7 @@ paginate     = 10
     #
     path = "/starslogo.png"
     # alt = "Your example logo alt text"
-
-  # And you can even create generic menu
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "Posts"
-    url = "/posts/"
-  
+ 
   googleAnalytics = 'G-B47JLNF8ZN'
     
  

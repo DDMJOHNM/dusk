@@ -1,7 +1,7 @@
 ---
 title: "Transmissions: Blog Update 2"
 date: 2024-01-05T11:53:06+12:00
-draft: false
+draft: true
 ---
 
 {{< image src="/update2.png" alt="Hello Friend" position="center" >}}

@@ -1,7 +1,7 @@
 ---
 title: "Transmissions: Blog Update 3"
 date: 2024-01-19T11:53:06+12:00
-draft: false
+draft: true
 ---
 
 {{< image src="/john_update_3.png" alt="Hello Friend" position="center" >}}

@@ -9,24 +9,34 @@ draft: false
 
 **Stars and the Underground** 
 
-Is the solo project of John Mason (Winterland) based in Auckland, New Zealand. 
+Stars and the Underground is the the musical project of Auckland, New Zealand based
+singer songwriter John Mason. (ex Winterland circa 1999)
 
-John plays a unique brand of Post Punk incorporating Shoegaze textures and Dark Synthwave vibes.
+Our name suggests a duality between musical textures. Usual motifs include ethereal
+and dark musical tones. If you walked into a music store people might file us
+alongside other artists and styles but how do you categorise yourself?
 
-Joined by a talented group of friends on releases or solo each release has a story of its own and documents another step in the journey of Stars.
+If you must then I would prefer it to read something like Goth Adjacent, Post Punk,
+Dark Wave and Dark Synthwave and Shoegaze.
 
-New material is due in 2024 and this will start with the release of the single Lonely Black Hearts Dismay and working towards some live dates with John Mcdermott on drums joining me.  
+But if you were to ignore us due to such categorisation you’d be doing yourself and
+us a disservice.
 
-The single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
+The honest truth is our songs encourage you to look at the darkest of things and
+find beauty and peace and freedom of expression within them. They compel the
+listener to emerge with a greater sense of purpose and understanding of the events
+they communicate something about.
 
-Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
+New Zealand has a small loyal following of such music under darker umberellas, so
+these days we push ourselves out to a wider international audience getting received
+well with international airplay and compilation appearances and also touring.
+But still with each new release we hope to connect and attract new people to our
+fanbase no matter where they are from and what music categorizations they gravitate
+to.
 
-This carried on the great work we started with the release of the Evolution Circle Ep in 2019 and the tour of Australia, also sharing the stage in Auckland with Drab Majesty (US) and Sounds Like Winter (Aus) and Ikon (Aus). 
-
-<!-- **EPK**
-
-https://www.duskaotearoa.co.nz/stars_epk.pdf -->
-
+2024 marks a rebirth of sorts as we have changed line ups and have a new album
+called ‘Guardians of the Night’ in the wings, after almost two years away the first
+live shows are being booked.
 
 **Press**
 

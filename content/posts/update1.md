@@ -1,7 +1,7 @@
 ---
 title: "Transmissions: Blog Update 1"
 date: 2023-11-19T11:53:08+12:00
-draft: false
+draft: true
 ---
 
 {{< image src="/single.png" alt="Hello Friend" position="center" >}}
