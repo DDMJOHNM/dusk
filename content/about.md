@@ -28,11 +28,10 @@ listener to emerge with a greater sense of purpose and understanding of the even
 they communicate something about.
 
 New Zealand has a small loyal following of such music under darker umberellas, so
-these days we push ourselves out to a wider international audience getting received
-well with international airplay and compilation appearances and also touring.
-But still with each new release we hope to connect and attract new people to our
-fanbase no matter where they are from and what music categorizations they gravitate
-to.
+these days we push ourselves out to a wider international audience. 
+
+Our single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
+Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
 
 2024 marks a rebirth of sorts as we have changed line ups and have a new album
 called ‘Guardians of the Night’ in the wings, after almost two years away the first
