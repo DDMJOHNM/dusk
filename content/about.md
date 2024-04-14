@@ -27,9 +27,6 @@ find beauty and peace and freedom of expression within them. They compel the
 listener to emerge with a greater sense of purpose and understanding of the events
 they communicate something about.
 
-New Zealand has a small loyal following of such music under darker umberellas, so
-these days we push ourselves out to a wider international audience. 
-
 Our single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
 Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
 
