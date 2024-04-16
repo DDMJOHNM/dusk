@@ -16,8 +16,7 @@ Our name suggests a duality between musical textures. Usual motifs include ether
 and dark musical tones. If you walked into a music store people might file us
 alongside other artists and styles but how do you categorise yourself?
 
-If you must then I would prefer it to read something like Goth Adjacent, Post Punk,
-Dark Wave and Dark Synthwave and Shoegaze.
+If you must then I would prefer it to read something like Post Punk, Darkwave and Dark Synthwave and Shoegaze.
 
 But if you were to ignore us due to such categorisation you’d be doing yourself and
 us a disservice.
