@@ -9,7 +9,7 @@ paginate     = 10
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  backgroundImage = "./newfront.png" 
+  backgroundImage = "./front.png" 
   
   # Subtitle for home
   homeSubtitle = ""
