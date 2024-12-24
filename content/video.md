@@ -5,14 +5,6 @@ date: 2022-09-04T11:53:08+12:00
 draft: false
 ---
 
-<!-- **Lonely Black Hearts**
-{{< youtube xnQ8O6kwjqY >}}  
-
-(Dusk Aotearoa)
- 
-This is the first single from our forthcoming album "Guardians of The Night". -->
-
-
 **Concierto Solidario - Radio Subte Lima Sur(Peru) Live Stream**
 {{< youtube XewjDrjTW7o >}}  
 
