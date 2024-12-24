@@ -26,6 +26,8 @@ Mastered By: John McDermott @ Arch Hill Studios, Auckland
 
 Black Hearts Remix by Elenor Rayner (Robots In Love)
 
+Black Hearts Remix by Ant Banister (Sequential Zero)
+
 
 
 
