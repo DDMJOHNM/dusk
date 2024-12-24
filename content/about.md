@@ -29,9 +29,9 @@ they communicate something about.
 Our single “Nosferatu Upon Tyne” was released in August 2020 and received airplay in New Zealand, Australia, Mexico, Peru, Argentina, Canada, Greece, Germany, UK, France and the US.
 Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
 
-2024 marks a rebirth of sorts as we have changed line ups and have a new album
-called ‘Guardians of the Night’ in the wings, after almost two years away the first
-live shows are being booked.
+After a long hiatus due to a re-imagining of this project the body of our new album "Guardians of the Night" is complete. While I can't commit to a release date as of writing this, what I can promise
+in the near future is the release of the first single "Lonely Black Hearts" and also return to the stage.     
+
 
 **Press**
 
