@@ -30,7 +30,7 @@ Our single “Nosferatu Upon Tyne” was released in August 2020 and received ai
 Nosferatu was also included on the US compilation UnObscured Comp Vol 2 2020 along side bands like Altar De Fey Shadow Assembly and Ashes Fallen.
 
 After a long hiatus due to a re-imagining of this project the body of our new album "Guardians of the Night" is complete. While I can't commit to a release date as of writing this, what I can promise
-in the near future is the release of the first single "Lonely Black Hearts" and also return to the stage.     
+in the near future is the release of the first single "Lonely Black Hearts" and also a return to the stage.     
 
 
 **Press**
