@@ -4,7 +4,7 @@ date: 2025-01-20T11:53:08+12:00
 draft: false
 ---
 
-{{< image src="/single.png" alt="Hello Friend" position="left" style="border-radius: 8px;width:350px; height:350px;">}}
+{{< image src="/single.png" alt="Hello Friend" position="left" style="border-radius: 8px; height:350px;">}}
 
 After two years away from playing live Stars and the Underground are looking
 forward to bringing their unique hybrid post-punk/synthwave sound with
