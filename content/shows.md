@@ -7,6 +7,7 @@ draft: false
 
 | Date    | Line Up | Venue | City/Country |
 | -------- | ------- | ------- |  ------- |
+| April 2025 | w/Other Voices  |  Whammy Bar  |  Auckland, NZ  | 
 | Aug 2022 | w/After The Flesh  |  Wine Cellar  |  Auckland, NZ  | 
 | Jan 2022 | Gathering Shadows  |  Valhalla  |  Wellington, NZ  | 
 | Jul 2021 | w/Lichtbeuger |  Thirsty Dog   |  Auckland, NZ  | 
