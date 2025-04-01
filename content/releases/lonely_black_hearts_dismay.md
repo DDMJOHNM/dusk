@@ -4,7 +4,7 @@ date: 2025-01-20T11:53:08+12:00
 draft: false
 ---
 
-{{< image src="/single.png" alt="Hello Friend" position="left" style="border-radius: 8px; height:350px;">}}
+{{< bandcamp 3320165677 >}}
 
 After two years away from playing live Stars and the Underground are looking
 forward to bringing their unique hybrid post-punk/synthwave sound with
@@ -21,11 +21,7 @@ will be released on the first of April, 2025.
 The single includes remixes from Elenor Rayner (Robots in Love) and Ant
 Banister of Sydney bands Sounds Like Winter and Sequential Zero.
 
-[Distro Kid Presave Link](https://distrokid.com/hyperfollow/starsandtheunderground/lonely-black-hearts?fbclid=IwY2xjawH8LGpleHRuA2FlbQIxMAABHRdbZ4XCI6yXv3aMpzkvkU6lTdzn1C6Zjm2pf1cDXKkNpZemuaxMvdUYcg_aem_5gU8sWkaaWc06xt_gNd82Q)
-
-
 Released April 1st, 2025
-(Distro Kid)
 
 **Credits**
 
@@ -45,6 +41,6 @@ Black Hearts Remix by Elenor Rayner (Robots In Love)
 Black Hearts Remix by Ant Banister (Sequential Zero)
 
 
-{{< youtube 76eUdlcGapk >}}  
+{{< youtube 2_SkJ3OdltE >}}  
 
 
