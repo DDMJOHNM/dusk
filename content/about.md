@@ -35,6 +35,18 @@ in the near future is the release of the first single "Lonely Black Hearts" and 
 
 **Press**
 
+“Dark Soulful Post Punk from New Zealand…” 
+
+*Mick Mercer (UK)* 
+
+"Stars and the Underground conjure a dark synthwave and shoegaze sound that drifts like cathedral smoke and sways like twilight on the tide. Guitars chime and shimmer with celestial clarity, while basslines brood beneath, steady as sleepwalks. Vocals echo like lost prayers, half-whispered, half-resolved. Drawing from the same windswept well as The Church and The Mission, they summon atmosphere over aggression, beauty over bombast, mood over momentum..."
+
+*Alice Teeple Post-Punk.com*
+
+"After a two-year silence, Stars and the Underground are back—louder, darker, and more cinematic than ever. Their new single 'Lonely Black Hearts'; marks the first taste of their upcoming album Guardians of the Night, a brooding blend of post-punk, synthwave, and shoegaze that’s already turning heads internationally..."
+
+*Nick EmptySpaces.co.nz*
+
 “Moody, atmospheric textured landscapes of sound which wash out like smooth rolling waves...”
 
 *Rev Orange Peel, 13thfloor.co.nz*
