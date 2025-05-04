@@ -7,6 +7,7 @@ draft: false
 
 | Date    | Line Up | Venue | City/Country |
 | -------- | ------- | ------- |  ------- |
+| June 2025 | Goth Night  |  Ding Dong Lounge  |  Auckland, NZ  | 
 | April 2025 | w/Other Voices  |  Whammy Bar  |  Auckland, NZ  | 
 | Aug 2022 | w/After The Flesh  |  Wine Cellar  |  Auckland, NZ  | 
 | Jan 2022 | Gathering Shadows  |  Valhalla  |  Wellington, NZ  | 
