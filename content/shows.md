@@ -7,6 +7,9 @@ draft: false
 
 | Date    | Line Up | Venue | City/Country |
 | -------- | ------- | ------- |  ------- |
+| Sept 2025 | w/Robots In Love, Breeches |  Voodoo Lounge  |  Tauranga, NZ  | 
+| Sept 2025 | Goth Night  |  Ding Dong Lounge  |  Auckland, NZ  | 
+| July 2025 | w/The Liers  |  Claire Inn  |  Auckland, NZ  | 
 | June 2025 | Goth Night  |  Ding Dong Lounge  |  Auckland, NZ  | 
 | April 2025 | w/Other Voices  |  Whammy Bar  |  Auckland, NZ  | 
 | Aug 2022 | w/After The Flesh  |  Wine Cellar  |  Auckland, NZ  | 
